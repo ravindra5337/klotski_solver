@@ -1,0 +1,623 @@
+{
+  "levels": [
+  
+  {
+  "lvl": 7,
+  "row": 5,
+  "col": 4,
+  "blocks": [
+    {
+      "pos": {
+        "x": 3,
+        "y": 3
+      },
+      "type": 2,
+      "is_goal": false
+    },
+    {
+      "pos": {
+        "x": 3,
+        "y": 0
+      },
+      "type": 2,
+      "is_goal": false
+    },
+    {
+      "pos": {
+        "x": 3,
+        "y": 1
+      },
+      "type": 4,
+      "is_goal": true
+    },
+    {
+      "pos": {
+        "x": 1,
+        "y": 0
+      },
+      "type": 2,
+      "is_goal": false
+    },
+    {
+      "pos": {
+        "x": 1,
+        "y": 3
+      },
+      "type": 2,
+      "is_goal": false
+    },
+    {
+      "pos": {
+        "x": 2,
+        "y": 1
+      },
+      "type": 3,
+      "is_goal": false
+    },
+    {
+      "pos": {
+        "x": 1,
+        "y": 1
+      },
+      "type": 1,
+      "is_goal": false
+    },
+    {
+      "pos": {
+        "x": 1,
+        "y": 2
+      },
+      "type": 1,
+      "is_goal": false
+    },
+    {
+      "pos": {
+        "x": 0,
+        "y": 0
+      },
+      "type": 1,
+      "is_goal": false
+    },
+    {
+      "pos": {
+        "x": 0,
+        "y": 3
+      },
+      "type": 1,
+      "is_goal": false
+    }
+  ]
+}
+  ,
+    {
+      "lvl": 6,
+      "row": 5,
+      "col": 4,
+      "blocks": [
+        {
+          "pos": {
+            "x": 1,
+            "y": 0
+          },
+          "type": 4,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": true
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 0
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 1
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 2
+          },
+          "type": 3,
+          "is_goal": false
+        }
+      ]
+    },
+    {
+      "lvl": 4,
+      "row": 5,
+      "col": 4,
+      "blocks": [
+        {
+          "pos": {
+            "x": 0,
+            "y": 0
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 3
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 0
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 3
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 1
+          },
+          "type": 4,
+          "is_goal": true
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 1
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 2
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 1
+          },
+          "type": 3,
+          "is_goal": false
+        }
+      ]
+    },
+    {
+      "lvl": 2,
+      "row": 5,
+      "col": 4,
+      "blocks": [
+        {
+          "pos": {
+            "x": 0,
+            "y": 0
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 3
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 0
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 3
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 1
+          },
+          "type": 4,
+          "is_goal": true
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 1
+          },
+          "type": 3,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 1
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 2
+          },
+          "type": 1,
+          "is_goal": false
+        }
+      ]
+    },
+    {
+      "lvl": 3,
+      "row": 5,
+      "col": 4,
+      "blocks": [
+        {
+          "pos": {
+            "x": 4,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 1
+          },
+          "type": 4,
+          "is_goal": true
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 1
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 2
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 1
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 2
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 1
+          },
+          "type": 3,
+          "is_goal": false
+        }
+      ]
+    },
+    {
+      "lvl": 1,
+      "row": 5,
+      "col": 4,
+      "blocks": [
+        {
+          "pos": {
+            "x": 4,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 1
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 2
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 0
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 1,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 1
+          },
+          "type": 4,
+          "is_goal": true
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 1
+          },
+          "type": 1,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 2
+          },
+          "type": 1,
+          "is_goal": false
+        }
+      ]
+    },
+    {
+      "lvl": 5,
+      "row": 5,
+      "col": 4,
+      "blocks": [
+        {
+          "pos": {
+            "x": 0,
+            "y": 3
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 2
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 1
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 0,
+            "y": 0
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 0
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 1
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 3,
+            "y": 2
+          },
+          "type": 2,
+          "is_goal": false
+        },
+        {
+          "pos": {
+            "x": 4,
+            "y": 3
+          },
+          "type": 1,
+          "is_goal": true
+        },
+        {
+          "pos": {
+            "x": 2,
+            "y": 1
+          },
+          "type": 3,
+          "is_goal": false
+        }
+      ]
+    }
+  ]
+}
