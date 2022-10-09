@@ -8,7 +8,7 @@ This project is used to demostrate working of Klotski solver.
 
 
 
-![demo](https://github.com/ravindra5337/klotski_solver/blob/main/slover_demo.gif){height="36px" width="36px"}
+![demo](https://github.com/ravindra5337/klotski_solver/blob/main/slover_demo.gif)
 
 Klotski is sliding puzzle where objective is to move redblock out of the board by sliding blocks
 
